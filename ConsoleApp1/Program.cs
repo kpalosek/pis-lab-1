@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo!");
             Console.WriteLine("Novo 2!");
-            // Bug ispravljen
+            // Bug ispravljen...
         }
     }
 }
