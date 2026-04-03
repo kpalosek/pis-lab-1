@@ -10,7 +10,8 @@ namespace ConsoleApp1
             Console.WriteLine("Novo!");
             Console.WriteLine("Novo 2!");
             // Bug ispravljen...
-            Console.WriteLine("Testni commit.")
+            Console.WriteLine("Testni commit.");
+            Console.WriteLine("Novi testni commit.");
         }
     }
 }
