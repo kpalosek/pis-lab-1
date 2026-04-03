@@ -8,6 +8,6 @@ public class Class1
 		int b = 10;
 		int c = 30;
 		int d = 40;
-		int e = 50;
+		int e = 60;
 	}
 }
