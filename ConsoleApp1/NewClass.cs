@@ -9,5 +9,7 @@ public class Class1
 		int c = 30;
 		int d = 40;
 		int e = 60;
+		int f = 33;
+		// Ovo je kod na new_branch grani
 	}
 }
